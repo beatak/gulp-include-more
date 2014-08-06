@@ -1,0 +1,20 @@
+{
+  "name": "gulp-include-more",
+  "version": "0.0.1",
+  "description": "gulp plugin to concatenate js files with Sprockets compatible directives",
+  "homepage": "http://github.com/beatak/gulp-include-more",
+  "repository": "git://github.com/beatak/gulp-include-more.git",
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Takashi Mizohata",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.7"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.20",
+    "event-stream": "~3.1.7"
+  }
+}
